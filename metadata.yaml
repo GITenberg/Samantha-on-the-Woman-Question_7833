@@ -1,4 +1,8 @@
 _repo: Samantha-on-the-Woman-Question_7833
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Holley, Marietta
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1194
     wikipedia: http://en.wikipedia.org/wiki/Marietta_Holley
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7833#Samantha-on-the-Woman-Question
 gutenberg_bookshelf: Humor
 gutenberg_issued: '2005-04-01'
 gutenberg_type: Text
